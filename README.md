@@ -6,4 +6,4 @@ Currently working on:
 - [Vidmap](https://github.com/tsunko/vidmap)
 - Trying to understand FFmpeg's documentation.
 
-If you need to contact me, I can be reached by email or by sending a direct message via Discord (<my github name>#0001).
+If you need to contact me, I can be reached by email or by sending a direct message via Discord (\<my github name\>#0001).
